@@ -7,6 +7,7 @@ import Culture from '@/features/culture/Culture'
 import Cuisine from '@/features/cuisine/Cuisine'
 import Gallery from '@/features/gallery/Gallery'
 import Visit from '@/features/visit/Visit'
+import Contact from '@/features/contact/Contact'
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
         <Cuisine />
         <Gallery />
         <Visit />
+        <Contact />
       </main>
       <Footer />
     </div>
