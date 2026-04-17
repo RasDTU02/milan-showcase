@@ -18,6 +18,7 @@ const NAV_LINKS: NavLink[] = [
   { label: 'Culture',   href: '#culture'   },
   { label: 'Cuisine',   href: '#cuisine'   },
   { label: 'Visit',     href: '#visit'     },
+  { label: 'Contact',   href: '#contact'   },
 ]
 
 const SOCIAL_LINKS: SocialLink[] = [
